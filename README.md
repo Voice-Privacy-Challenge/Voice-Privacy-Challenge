@@ -1,4 +1,4 @@
-### 📢 The Second VoicePrivacy Challenge 🏆 will start in January 2022! 🚀
+### 📢 The Second VoicePrivacy Challenge 🏆 will start soon! 🚀
 ### 🔜 More information is coming soon...⌛ ###
 
 
