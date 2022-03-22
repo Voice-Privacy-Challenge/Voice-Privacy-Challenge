@@ -1,4 +1,4 @@
-### The VoicePrivacy 2022 Challenge has started!
+### The [VoicePrivacy 2022 Challenge](https://www.voiceprivacychallenge.org/) has started!
 
 - ### [Registration](https://www.voiceprivacychallenge.org/participate/#registration) is open. ###
 - ### Find More information in [The VoicePrivacy 2022 Challenge Evaluation Plan](https://www.voiceprivacychallenge.org/vp2020/docs/VoicePrivacy_2022_Eval_Plan_v1.0.pdf) ###
