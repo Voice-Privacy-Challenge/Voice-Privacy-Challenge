@@ -1,6 +1,7 @@
-### 📢 The Second VoicePrivacy Challenge 🏆 has started! 🚀 
-### [Registration](https://www.voiceprivacychallenge.org/participate/#registration) is open. ###
-### Find More information in [The VoicePrivacy 2022 Challenge Evaluation Plan](https://www.voiceprivacychallenge.org/vp2020/docs/VoicePrivacy_2022_Eval_Plan_v1.0.pdf) ###
+### The VoicePrivacy 2022 Challenge has started!
+
+- ### [Registration](https://www.voiceprivacychallenge.org/participate/#registration) is open. ###
+- ### Find More information in [The VoicePrivacy 2022 Challenge Evaluation Plan](https://www.voiceprivacychallenge.org/vp2020/docs/VoicePrivacy_2022_Eval_Plan_v1.0.pdf) ###
 
 
 <!--
