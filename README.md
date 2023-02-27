@@ -1,4 +1,4 @@
-# The VoicePrivacy Attacker 2023 Challenge - is coming soon #
+# The VoicePrivacy 2023 🌟 Attacker 🌟 Challenge - is coming soon #
 
 
 ## News and Updates ##
