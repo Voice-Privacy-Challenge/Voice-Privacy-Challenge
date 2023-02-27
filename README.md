@@ -1,4 +1,4 @@
-# [The VoicePrivacy 2022 Challenge](https://www.voiceprivacychallenge.org/) #
+# The VoicePrivacy Attacker 2023 Challenge - is cooming soon #
 
 
 ## News and Updates ##
