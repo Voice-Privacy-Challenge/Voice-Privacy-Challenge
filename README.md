@@ -1,4 +1,8 @@
-# The VoicePrivacy 2023 🌟 Attacker 🌟 Challenge - is coming soon #
+# The VoicePrivacy 2023 🌟 Attacker 🌟 Challenge is coming soon! #
+
+In March, 2023 we run a new VoicePrivacy **Attacker Challenge** that focuses on  developing  **attack models against speaker anonymization systems**.
+A set of different anonymization systems, participated in the  VoicePrivacy 2022 Challenge, will be used for evaluation.
+Participants should develop their attack models in the form of automatic speaker verification systems and submit their scores on the test and development data to the organizers. Results will be presented at a workshop held in conjunction with INTERSPEECH 2023 and 3rd Symposium on Security and Privacy in Speech Communication to which all participants are invited to present their challenge systems and to submit additional workshop papers.
 
 
 ## News and Updates ##
