@@ -1,8 +1,4 @@
-# The VoicePrivacy 🌟 Attacker 🌟 Challenge is coming soon! #
 
-We run a new VoicePrivacy **Attacker Challenge** that focuses on  developing  **attack models against speaker anonymization systems**.
-A set of different anonymization systems, participated in the  VoicePrivacy 2022 Challenge, will be used for evaluation.
-Participants should develop their attack models in the form of automatic speaker verification systems and submit their scores on the test and development data to the organizers. 
 
 
 ## News and Updates ##
