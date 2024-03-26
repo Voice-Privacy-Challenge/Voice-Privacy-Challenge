@@ -2,6 +2,7 @@
 
 
 ## News and Updates ##
+-  **26.03.2024** The **Updated** [list of data and models](https://www.voiceprivacychallenge.org/docs/VoicePrivacy_2024_Challenge_Final_list_of_models_and_data_for_training_anonymization_systems_-_26.03.2024.pdf) that participants can use to develop and train their anonymization systems is published on the challenge website (Added: the [MSP-Podcast](https://ecs.utdallas.edu/research/researchlabs/msp-lab/MSP-Podcast.html) corpus)
 -  **23.03.2024** The [list of data and models](https://www.voiceprivacychallenge.org/docs/VoicePrivacy_2024_Challenge_Final_list_of_models_and_data_for_training_anonymization_systems.pdf) that participants can use to develop and train their anonymization systems is published on the challenge website. 
 -  **20.03.2024** Deadline for the VoicePrivacy 2024 Challenge participants to submit a list of training data and models. 
 -  **08.03.2024** Release of [The VoicePrivacy 2024 Challenge Evaluation Plan v1.0](https://www.voiceprivacychallenge.org/docs/VoicePrivacy_2024_Eval_Plan_v1.0.pdf). 
