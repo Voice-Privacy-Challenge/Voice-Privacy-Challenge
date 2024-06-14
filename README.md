@@ -2,6 +2,7 @@
 
 
 ## News and Updates ##
+- **14.06.2024** System to submit system descriptions is open: https://vpc-2024.sciencesconf.org 
 - **12.06.2024** Extended submission deadlines: https://www.voiceprivacychallenge.org/participate/#schedule
 - **11.06.2024** Information about sumbissions: https://www.voiceprivacychallenge.org/participate/#submission
 - **01.04.2024** The [updated evaluation plan](https://www.voiceprivacychallenge.org/docs/VoicePrivacy_2024_Eval_Plan_v2.0.pdf) (v2.0 - new baselines, results and training resorces)
