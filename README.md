@@ -1,7 +1,5 @@
-
-
-
 ## News and Updates ##
+- **15.06.2024** Deadline to submit abstracts for system descriptions (AoE)
 - **14.06.2024** System to submit system descriptions is open: https://vpc-2024.sciencesconf.org 
 - **12.06.2024** Extended submission deadlines: https://www.voiceprivacychallenge.org/participate/#schedule
 - **11.06.2024** Information about sumbissions: https://www.voiceprivacychallenge.org/participate/#submission
