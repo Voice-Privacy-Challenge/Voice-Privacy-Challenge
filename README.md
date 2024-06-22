@@ -1,4 +1,5 @@
 ## News and Updates ##
+- **22.06.2024** Deadline to submit papers to SPSC-2024: [submission link](https://openreview.net/group?id=ISCA-Speech.org%2FSIG-SPSC%2F2024%2FSymposium&classes=underline) (AoE)
 - **15.06.2024** Deadline to submit abstracts for system descriptions (AoE)
 - **14.06.2024** System to submit system descriptions is open: https://vpc-2024.sciencesconf.org 
 - **12.06.2024** Extended submission deadlines: https://www.voiceprivacychallenge.org/participate/#schedule
