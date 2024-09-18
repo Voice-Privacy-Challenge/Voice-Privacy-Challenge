@@ -1,4 +1,6 @@
 ## News and Updates ##
+- **18.09.2024** The VoicePrivacy 2024 Challenge participants' [system descriptions, presentations](https://www.voiceprivacychallenge.org/vp2024/#systems2024), and [results](https://www.voiceprivacychallenge.org/vp2024/#results-2024) are available on the website.
+- **06.09.2024** 4th SPSC Symposium, Kos, Greece (https://www.spsc2024.mobileds.de/#program)
 - **15.08.2024** Dealine for the presenters for each team to register at SPSC-2024
 - **11.08.2024** Deadline to confirm information about the presenters at SPSC-2024: https://forms.office.com/r/74X9mrqQ6U
 - **28.07.2024** The [First VoicePrivacy Attacker Challenge](https://www.voiceprivacychallenge.org/attacker/) has been accepted for SP Grand Challenges at [ICASSP 2025](https://2025.ieeeicassp.org/)
