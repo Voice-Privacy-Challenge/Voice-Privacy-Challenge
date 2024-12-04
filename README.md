@@ -1,4 +1,5 @@
 ## News and Updates ##
+- **05.12.2024** Deadline to submit results and system descriptions for the Attacker Challenge. Check the submissions rules: https://www.voiceprivacychallenge.org/attacker/
 - **15.10.2024** List of training resources for the **Attacker Challenge**, updated on **22.10.2024** in the [evaluation plan](https://www.voiceprivacychallenge.org/attacker/docs/Attacker_Challenge_Eval_Plan_v2.2.pdf)
 - **13.10.2024** Deadline for the **Attacker Challenge** participants to submit (by email attacker.challenge@inria.fr) a list of training resources (data, models, ...) they wish to use to develop their attacker systems.
 - **02.10.2024** Release of [The First VoicePrivacy Attacker Challenge Evaluation Plan](https://www.voiceprivacychallenge.org/attacker/docs/Attacker_Challenge_Eval_Plan.pdf) 
