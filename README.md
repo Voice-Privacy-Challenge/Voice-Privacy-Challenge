@@ -1,4 +1,6 @@
 ## News and Updates ##
+- **13.12.2024** Deadline to submit a paper to ICASSP-2025, GC-7: "The First VoicePrivacy Attacker Challenge" (by invitation).
+- **09.12.2024** Invitations to submit a paper to ICASSP-2025, GC-7: "The First VoicePrivacy Attacker Challenge" were sent to the best-5 teams. 
 - **05.12.2024** Deadline to submit results and system descriptions for the Attacker Challenge. Check the submissions rules: https://www.voiceprivacychallenge.org/attacker/
 - **15.10.2024** List of training resources for the **Attacker Challenge**, updated on **22.10.2024** in the [evaluation plan](https://www.voiceprivacychallenge.org/attacker/docs/Attacker_Challenge_Eval_Plan_v2.2.pdf)
 - **13.10.2024** Deadline for the **Attacker Challenge** participants to submit (by email attacker.challenge@inria.fr) a list of training resources (data, models, ...) they wish to use to develop their attacker systems.
