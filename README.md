@@ -1,5 +1,5 @@
 ## News and Updates ##
-- **11.01.2025** Deadline to submit the extended system descriptions for the Attacker Challenge to https://attacker.sciencesconf.org/.
+- **15.01.2025** (Extended) Deadline to submit the extended system descriptions for the Attacker Challenge to https://attacker.sciencesconf.org/.
 - **13.12.2024** Deadline to submit a paper to ICASSP-2025, GC-7: "The First VoicePrivacy Attacker Challenge" (by invitation).
 - **09.12.2024** Invitations to submit a paper to ICASSP-2025, GC-7: "The First VoicePrivacy Attacker Challenge" were sent to the best-5 teams. 
 - **05.12.2024** Deadline to submit results and system descriptions for the Attacker Challenge. Check the submissions rules: https://www.voiceprivacychallenge.org/attacker/
