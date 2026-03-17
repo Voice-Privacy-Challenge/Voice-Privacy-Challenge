@@ -1,4 +1,5 @@
 ## News and Updates ##
+- **17.03.2026** Release of [The VoicePrivacy 2026 Challenge Evaluation Plan](https://www.voiceprivacychallenge.org/vp2026/docs/VPC_2026_march17_v2.pdf)
 - **09.03.2026** The first VoicePrivacy Attacker Challenge results preprint: [Privacy Attacks on Voice Anonymization Systems: Overview and Key Findings from the First VoicePrivacy Attacker Challenge](https://hal.science/hal-05543730)
 - **17.01.2026** The 2024 VoicePrivacy Challenge results preprint is on arXiv: [The Third VoicePrivacy Challenge: Preserving Emotional Expressiveness and Linguistic Content in Voice Anonymization](https://arxiv.org/abs/2601.11846)
 - **15.01.2025** (Extended) Deadline to submit the extended system descriptions for the Attacker Challenge to https://attacker.sciencesconf.org/.
