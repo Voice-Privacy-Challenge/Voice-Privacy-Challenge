@@ -1,5 +1,5 @@
 ## News and Updates ##
-- **04.07.2026** - Extended deadline to submit papers and results for the VPC 2026.
+- **04.07.2026** Extended deadline to submit papers and results for the VPC 2026.
 - **14.06.2026** Release of [The VoicePrivacy 2026 Challenge Evaluation Plan v1.2](https://www.voiceprivacychallenge.org/vp2026/docs/VPC_2026_june14.pdf)
 - **12.05.2026** Release of [The VoicePrivacy 2026 Challenge Evaluation Plan v1.1](https://www.voiceprivacychallenge.org/vp2026/docs/VPC_2026_may12.pdf)
 - **17.03.2026** Release of [The VoicePrivacy 2026 Challenge Evaluation Plan](https://www.voiceprivacychallenge.org/vp2026/docs/VPC_2026_march17_v2.pdf)
