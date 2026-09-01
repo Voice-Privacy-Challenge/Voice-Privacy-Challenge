@@ -1,7 +1,7 @@
 ## News and Updates ##
 - **15.09.2026** Extended deadline for submitting camera-ready papers to SPSC 2026.
 - **01.09.2026** Release of [The VoicePrivacy 2026 Challenge Evaluation Plan v2.0](https://www.voiceprivacychallenge.org/vp2026/docs/VPC_2026_sept01.pdf)
-- **01.09.2026** Fixed an embedding-normalization issue at test time and updated the Track 1 trial list to include cross-gender trials.
+- **01.09.2026** Fixed an embedding-normalization issue at test time and updated the Track 1 trial list to include cross-gender trials in [Voice-Privacy-Challenge-2026](https://github.com/Voice-Privacy-Challenge/Voice-Privacy-Challenge-2026).
 - **04.07.2026** Extended deadline to submit papers and results for the VPC 2026.
 - **14.06.2026** Release of [The VoicePrivacy 2026 Challenge Evaluation Plan v1.2](https://www.voiceprivacychallenge.org/vp2026/docs/VPC_2026_june14.pdf)
 - **12.05.2026** Release of [The VoicePrivacy 2026 Challenge Evaluation Plan v1.1](https://www.voiceprivacychallenge.org/vp2026/docs/VPC_2026_may12.pdf)
